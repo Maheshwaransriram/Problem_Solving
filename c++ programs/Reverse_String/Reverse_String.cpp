@@ -15,7 +15,7 @@ void reverse_string(char* string) {
         string[i] = temp;
     }
 }
-
+ 
 int main()
 {
     char string[100];
